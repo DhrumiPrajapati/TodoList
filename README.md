@@ -12,6 +12,7 @@ I have built this project to keep records of todo tasks and have implemented var
 - [x] Edit Task
 - [x] Mark Task as completed from the list of tasks
 - [x] Search Task from the list of tasks
+- [x] Display the count of uncompleted tasks
 - [x] Delete Task
 - [x] Log Out
 
