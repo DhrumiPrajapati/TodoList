@@ -76,9 +76,6 @@ cd TodoList
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run database migrations
 python manage.py migrate
 
